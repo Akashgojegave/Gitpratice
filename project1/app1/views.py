@@ -51,6 +51,7 @@ class Anime_item(APIView):
         obj.delete()
         return Response(data=None, status=status.HTTP_204_NO_CONTENT)
 
+# git change pratuce 1
 
 
 
